@@ -1,6 +1,6 @@
 cask "splash-monitor" do
   version "1.0.0-beta"
-  sha256 "1b9ca90793cb56bc007fb510fe03a04b56f9befb0c2825de99460a5eb9b90b8b"
+  sha256 "39c50c718f40462c9b12ff4ca91f44db791c4005cb73ebd0b4338c3bb93f4703"
 
   url "https://github.com/hometrix/SplashMonitor/releases/download/v#{version}/SplashMonitor-#{version}.dmg"
   name "Splash Monitor"
